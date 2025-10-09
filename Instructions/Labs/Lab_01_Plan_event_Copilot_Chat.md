@@ -1,15 +1,8 @@
----
-# Lab 1
-    title: Plan a Client Summit with Microsoft 365 Copilot Chat
----
 # Lab 1 - Plan a Client Summit with Microsoft 365 Copilot Chat
 
 Imagine you're a business operations associate at a mid-sized consulting firm. Your manager has asked you to lead planning for an upcoming Client Innovation Summit. You’ll use Microsoft 365 Copilot Chat to gather insights, generate ideas, visualize the schedule, draft a planning document, summarize it, and collaborate with your colleagues. 
 
 The tasks in this lab will guide you on how to navigate and prompt in Microsoft 365 Copilot Chat. To fully complete this lab, you need a Microsoft 365 subscription.
-
-> [!NOTE]
-> These tasks are designed specifically for use with **web mode** in Microsoft 365 Copilot Chat. If you have a Microsoft 365 Copilot license, make sure you **manually switch to web mode** when you open Copilot Chat, as it may default to work mode. Using **web mode** ensures the prompts behave as intended and source information from public web content.
 
 ## Before you start
 
