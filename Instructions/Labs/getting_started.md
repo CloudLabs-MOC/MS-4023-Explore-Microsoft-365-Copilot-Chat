@@ -67,7 +67,7 @@ This lab uses Microsoft 365 tools and services with Copilot integrated across th
 
 ## 🖼️ **Architecture Diagram**
 
-*(Insert a visual showing the flow: Copilot Chat → Word Document → File Upload → Copilot Summary → Copilot Pages → Collaboration)*
+![](./Media/lab-arch1.png)
 
 ---
 
