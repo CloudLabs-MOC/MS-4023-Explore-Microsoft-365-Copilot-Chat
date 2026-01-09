@@ -67,9 +67,7 @@ This lab uses Microsoft 365 tools and services with Copilot integrated across th
 
 ##  **Architecture Diagram**
 
-![](./Media/lab-arch1.png)
-
-
+   ![](./Media/lab-arch1.png)
 
 ##  **Explanation of Components**
 
@@ -148,5 +146,6 @@ Click on **Next** from the lower right corner to move on to the next page.
    ![Start Your Azure Journey](./Media/g42.png)
 
 ## Happy Learning !!
+
 
 
