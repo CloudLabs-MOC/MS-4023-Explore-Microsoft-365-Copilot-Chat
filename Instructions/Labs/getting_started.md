@@ -1,9 +1,9 @@
-# 🧠 MS-4023 : Explore Microsoft 365 Copilot chat 
-## 🧪 Lab 1 – Plan a Client Summit with Microsoft 365 Copilot Chat
+#  MS-4023 : Explore Microsoft 365 Copilot chat 
+##  Lab 1 – Plan a Client Summit with Microsoft 365 Copilot Chat
 
-### ⏱️ Overall Estimated Time: 60 minutes
+###  Overall Estimated Time: 60 minutes
 
-## 📘 **Overview**
+##  **Overview**
 
 In this hands-on lab, you'll take on the role of a **Business Operations Associate** tasked with planning a **Client Innovation Summit**. Using **Microsoft 365 Copilot Chat**, you’ll explore how AI can streamline and enhance event planning workflows—from trend analysis to documentation and collaboration.
 
@@ -13,7 +13,7 @@ This lab is designed to demonstrate **practical, real-world applications** of Co
 
 By the end of this lab, you'll understand how Microsoft 365 Copilot can serve as a powerful productivity assistant that helps you plan, write, ideate, and collaborate—all with natural language.
 
-## 🎯 **Objectives**
+##  **Objectives**
 
 By the end of this lab, you will be able to:
 
@@ -25,7 +25,7 @@ By the end of this lab, you will be able to:
 - Collaborate in real time by converting Copilot content into **Copilot Pages**.
 - Reflect on your learning with a personalized **takeaway checklist**.
 
-## 📋 **Tasks in This Lab**
+##  **Tasks in This Lab**
 
 You will complete the following tasks:
 
@@ -37,7 +37,7 @@ You will complete the following tasks:
 6. **Collaborate Using Copilot Pages**  
 7. **Reflect and Apply Your Learning**
 
-## 📎 **Pre-requisites**
+##  **Pre-requisites**
 
 To successfully complete this lab, you should have:
 
@@ -47,42 +47,42 @@ To successfully complete this lab, you should have:
 
 No prior experience with AI or coding is required.
 
-## 🏗️ **Architecture**
+##  **Architecture**
 
 This lab uses Microsoft 365 tools and services with Copilot integrated across the ecosystem. Here’s how the architecture works:
 
-### 🔧 Microsoft 365 Copilot Chat and Word:
+###  Microsoft 365 Copilot Chat and Word:
 
 - Prompt-based AI assistant for generating and refining ideas
 - Natural language interaction with productivity data
 - Seamless export to Microsoft Word for document creation
 
-### 🔄 File Analysis and Copilot Pages:
+###  File Analysis and Copilot Pages:
 
 - Upload Word documents to Copilot for summarization and repurposing
 - Transform Copilot responses into collaborative Copilot Pages
 - Real-time co-editing and sharing for internal planning workflows
 
----
 
-## 🖼️ **Architecture Diagram**
+
+##  **Architecture Diagram**
 
 ![](./Media/lab-arch1.png)
 
----
 
-## 🔍 **Explanation of Components**
 
-### 🔹 Microsoft 365 Copilot Chat  
+##  **Explanation of Components**
+
+###  Microsoft 365 Copilot Chat  
 The conversational interface where you interact with the AI using prompts. Copilot understands context, provides insights, and generates useful business content like session ideas or planning briefs.
 
-### 🔹 Word Online (via Microsoft 365 Apps)  
+###  Word Online (via Microsoft 365 Apps)  
 Used to format, store, and organize generated content. You’ll paste Copilot responses here to create shareable planning documents.
 
-### 🔹 Cloud File Upload  
+###  Cloud File Upload  
 Allows you to upload your Word planning brief into Copilot Chat so the AI can analyze and summarize content directly from your document.
 
-### 🔹 Copilot Pages  
+###  Copilot Pages  
 An editable, collaborative space where Copilot-generated content can be transformed into internal resources. Ideal for planning meetings, drafting emails, or refining content with your team.
 
 # Getting Started with lab
@@ -148,4 +148,5 @@ Click on **Next** from the lower right corner to move on to the next page.
    ![Start Your Azure Journey](./Media/g42.png)
 
 ## Happy Learning !!
+
 
