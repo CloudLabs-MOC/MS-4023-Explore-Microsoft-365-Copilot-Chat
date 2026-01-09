@@ -90,8 +90,9 @@ Welcome to your Lab 01: lan a Client Summit with Microsoft 365 Copilot Chat Lab!
 ## Accessing Your Lab Environment
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
- 
-![Access Your VM and Lab Guide](./Media/400.png)
+
+
+![](./Media/400.png)
 
 ## Lab Guide Zoom In/Zoom Out
  
