@@ -5,7 +5,7 @@
 
 ##  **Overview**
 
-In this hands-on lab, you'll take on the role of a **Business Operations Associate** tasked with planning a **Client Innovation Summit**. Using **Microsoft 365 Copilot Chat**, you’ll explore how AI can streamline and enhance event planning workflows—from trend analysis to documentation and collaboration.
+In this hands-on lab, you'll take on the role of a Business Operations Associate tasked with planning a Client Innovation Summit. Using Microsoft 365 Copilot Chat, you’ll explore how AI can streamline and enhance event planning workflows—from trend analysis to documentation and collaboration.
 
 You'll begin by prompting Copilot to summarize current industry trends, then transform those insights into session ideas, a visual agenda, and a project brief. You’ll also experience how to collaborate effectively by generating summaries, writing internal communications, and co-editing content in Copilot Pages.
 
@@ -17,25 +17,25 @@ By the end of this lab, you'll understand how Microsoft 365 Copilot can serve as
 
 By the end of this lab, you will be able to:
 
-- Use **Microsoft 365 Copilot Chat** to summarize industry trends and apply them to business planning.
-- Generate creative and compelling **session ideas** for an event.
-- Create visual elements like a **timeline agenda** and **event logo**.
-- Draft a professional **event planning brief** and format it in Word.
-- Analyze a document to extract summaries and write **follow-up emails**.
-- Collaborate in real time by converting Copilot content into **Copilot Pages**.
-- Reflect on your learning with a personalized **takeaway checklist**.
+- Use Microsoft 365 Copilot Chat to summarize industry trends and apply them to business planning.
+- Generate creative and compelling session ideas for an event.
+- Create visual elements like a timeline agenda and event logo.
+- Draft a professional event planning brief and format it in Word.
+- Analyze a document to extract summaries and write follow-up emails.
+- Collaborate in real time by converting Copilot content into Copilot Pages.
+- Reflect on your learning with a personalized takeaway checklist.
 
 ##  **Tasks in This Lab**
 
 You will complete the following tasks:
 
-1. **Summarize Industry Trends for Event Planning**  
-2. **Brainstorm and Draft Session Ideas**  
-3. **Visualize the Agenda Timeline and Create a Logo**  
-4. **Draft a Planning Document for the Summit**  
-5. **Analyze and Generate Content from a File**  
-6. **Collaborate Using Copilot Pages**  
-7. **Reflect and Apply Your Learning**
+1. Summarize Industry Trends for Event Planning 
+2. Brainstorm and Draft Session Ideas  
+3. Visualize the Agenda Timeline and Create a Logo
+4. Draft a Planning Document for the Summit
+5. Analyze and Generate Content from a File
+6. Collaborate Using Copilot Pages
+7. Reflect and Apply Your Learning
 
 ##  **Pre-requisites**
 
@@ -91,7 +91,7 @@ Welcome to your Lab 01: lan a Client Summit with Microsoft 365 Copilot Chat Lab!
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
  
-![Access Your VM and Lab Guide](./Media/msg1.png)
+![Access Your VM and Lab Guide](./Media/400.png)
 
 ## Lab Guide Zoom In/Zoom Out
  

@@ -238,12 +238,12 @@ You then advanced the workflow by summarizing content from a Word document, crea
 
 By the end of this lab, you gained hands-on experience in:
 
-Prompting and refining responses with Copilot Chat
+- Prompting and refining responses with Copilot Chat
 
-Turning raw insights into structured planning documents
+- Turning raw insights into structured planning documents
 
-Using AI to support communication and content creation
+- Using AI to support communication and content creation
 
-Collaborating in real time using Microsoft 365 tools
+- Collaborating in real time using Microsoft 365 tools
 
 This lab highlights how Microsoft 365 Copilot can act as a valuable assistant in professional settings—helping you think, write, plan, and collaborate more effectively.
