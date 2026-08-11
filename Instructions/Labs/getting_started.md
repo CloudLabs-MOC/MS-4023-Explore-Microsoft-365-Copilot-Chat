@@ -108,15 +108,26 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![Access Your VM and Lab Guide](./Media/g39.png)
+![Access Your VM and Lab Guide](./Media/envtab.png)
 
 
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
-![Access Your VM and Lab Guide](./Media/g40.png)
+![Access Your VM and Lab Guide](./Media/splittab.png)
 
+## Lab Guide Zoom In/Zoom Out
+
+To adjust the zoom level for the environment page, click the **A↕: 100%** icon located next to the timer in the lab environment.
+
+![pending](./Media/Zoomtab.png)
+
+## Lab Progress
+
+You can use the **Progress** tab to track your progress while working on the lab. A score will be provided after successful validation.
+
+![](./Media/progresstab.png)
 
 ## Lab Duration Extension
 
